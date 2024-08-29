@@ -1,4 +1,4 @@
-Modified code Bmi.c code to calculate the percentages and print them on screen.
+// Modified code Bmi.c code to calculate the percentages and print them on screen.
 // Include header file for prototypes of scanf and printf
 #include <stdio.h>
 
